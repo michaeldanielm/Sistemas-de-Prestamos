@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PrestamosConAmortizacion.Models.Prestamos>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Prestamos y Detalles</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo Prestamo", "Crear")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Clientes.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Capital)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Interes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Periodo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Clientes.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Capital)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Interes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Periodo)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.Id }) |
+            @Html.ActionLink("Detalles", "Detalles", new { id=item.Id }) |
+            @Html.ActionLink("Eliminar", "Eliminar", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

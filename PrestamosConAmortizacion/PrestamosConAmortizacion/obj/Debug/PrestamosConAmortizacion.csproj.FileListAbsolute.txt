@@ -1,0 +1,215 @@
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\ApplicationInsights.config
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe.config
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.rsp
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.exe
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.rsp
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.AppContext.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe.config
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.rsp
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll.config
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.pdb
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.Web.Infrastructure.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\WebGrease.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.pdb
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.xml
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.dll
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.pdb
+c:\users\miguel angel herrera\documents\visual studio 2017\Projects\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.csprojResolveAssemblyReference.cache
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\ApplicationInsights.config
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe.config
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.rsp
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.exe
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.rsp
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.AppContext.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Collections.Immutable.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe.config
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.rsp
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe.config
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll.config
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.pdb
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.Web.Infrastructure.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\WebGrease.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.pdb
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.xml
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.csprojResolveAssemblyReference.cache
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.csproj.CoreCompileInputs.cache
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.dll
+D:\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.pdb
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\ApplicationInsights.config
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.exe
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll.config
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\PrestamosConAmortizacion.pdb
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\WebGrease.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.dll
+C:\Users\User\Desktop\PrestamosConAmortizacion\PrestamosConAmortizacion\obj\Debug\PrestamosConAmortizacion.pdb

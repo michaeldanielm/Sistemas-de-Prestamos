@@ -1,0 +1,126 @@
+﻿@model PrestamosConAmortizacion.Models.Prestamos
+
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Prestamos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Clientes.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clientes.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Capital)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Capital)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Interes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Interes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Periodo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Periodo)
+        </dd>
+
+    </dl>
+</div>
+<h1>
+    Tabla Amortizacion
+</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Cuota</th>
+            <th>Interes Mensual</th>
+            <th>Amortizacion Principal</th>
+            <th>Amortizacion Total</th>
+            <th>Capital Pendiente</th>
+        </tr>
+    </thead>
+    @{ 
+
+        double capital = Model.Capital;
+        double interes = Convert.ToDouble(Model.Interes) / 1200;
+        double plazo = Convert.ToDouble(Model.Periodo);
+
+        //formula
+        double cuota = capital * (interes / (double)(1 - Math.Pow(1 + (double)interes, -plazo)));
+
+        double interes_mensual = 0;
+        double amortizacion = 0;
+        double amortizacion_total = 0;
+        int i = 1;
+
+        for(i = 1; i <= plazo; i++)
+        {
+            interes_mensual = Math.Round((interes * capital), 2);
+            capital = Math.Round(capital - cuota + interes_mensual, 2);
+
+
+            amortizacion_total += Math.Round(cuota - interes_mensual, 2);
+            amortizacion = cuota - interes_mensual;
+
+            <tbody>
+                <tr>
+                    <td>
+                        @i
+                    </td>
+                    <td>
+                        @Math.Round(cuota, MidpointRounding.AwayFromZero)
+                    </td>
+                    <td>
+                        @Math.Round(interes_mensual, MidpointRounding.AwayFromZero)
+                    </td>
+                    <td>
+                        @Math.Round(amortizacion_total, MidpointRounding.AwayFromZero)
+                    </td>
+                    <td>
+                        @Math.Round(amortizacion, MidpointRounding.AwayFromZero)
+                    </td>
+                    <td>
+                        @Math.Round(capital, MidpointRounding.AwayFromZero)
+                    </td>
+                </tr>
+            </tbody>
+            
+        }
+    }
+</table>
+
+<p>
+    <button onclick="printHTML()"> Imprimir</button>
+    <script>
+        function printHTML() {
+            if (window.print) {
+                window.print();
+            }
+        }
+    </script>
+</p>
+
+<p>
+    @Html.ActionLink("Editar", "Editar", new { id = Model.Id }) |
+    @Html.ActionLink("Regresar a  la Lista", "Index")
+</p>
